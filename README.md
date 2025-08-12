@@ -1,6 +1,6 @@
 # Ingredient Detector & Recipe Finder
 
-Assignment Note: The model is fine tuned to limited extent, it only has common ingredients like vegetables,fruits etc as for a more advanced model it would take a lot of time and memory, so I have only used specific image dataset to train. The model was fine tuned from google colab and a best_1.pt file has been added to the project root folder which contains the best custom model for the current project. Thank you
+Assignment Note: The model is fine tuned to limited extent, it only has common ingredients like vegetables,fruits etc as for a more advanced model it would take a lot of time and memory, so I have only used specific image dataset to train. The model was fine tuned from google colab and a best_1.pt file has been added to the project root folder which contains the best custom model for the current project. Also I have given sample images to test on the model in the file. Thank you.
 
 
 ## What it can do?
