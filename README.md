@@ -4,8 +4,9 @@ Assignment Note: The model is fine tuned to limited extent, it only has common i
 
 
 ## What it can do?
-1. Upload a picture of food
+1. Upload a picture of food(vegetables,fruits etc.)
 2. Figures out what ingredients are in the image(fine tuned using ingredient dataset from Kaggle)
+4. Click on a recipe to see the cooking instructions.
 3. Spoonacular API finds recipes which can be made with the ingredients list.  
 
 ## Tech Stack
