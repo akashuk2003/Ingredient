@@ -19,8 +19,10 @@ Assignment Note: The model is fine tuned to limited extent, it only has common i
 2.cd image_ext
 3.create a venv
 4.pip install -r requirements.txt
-5.python manage.py runserver
+5.use the '.env.example' file to create a .env file with the API keys.
+6.python manage.py runserver
 
 ## Frontend (React)
 1.cd recipe-frontend
-2.npm start
+2.use the '.env.example' file to add the BASE URL
+3.npm start
